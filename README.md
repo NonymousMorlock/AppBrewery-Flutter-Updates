@@ -9,3 +9,6 @@ these are the updated course resources
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 * [Magic 8 Ball Stub](https://github.com/NonymousMorlock/magic-8-ball-flutter-master)
+
+## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
+* XyloPhone Stub Project
