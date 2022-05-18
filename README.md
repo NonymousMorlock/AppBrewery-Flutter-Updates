@@ -8,4 +8,4 @@ these are the updated course resources
 * [Dicee Stub Project](https://github.com/NonymousMorlock/dicee-flutter-master) 
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
-* Magic 8 Ball Stub
+* [Magic 8 Ball Stub](https://github.com/NonymousMorlock/magic-8-ball-flutter-master)
