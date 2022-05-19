@@ -14,22 +14,23 @@ these are the updated course resources
 * [XyloPhone Stub Project](https://github.com/NonymousMorlock/xylophone-flutter-master)
 
 ## Section 10: Quizzler - Modularising & Organising Flutter Code
-* Quizzler Stub Project
+* [Quizzler Stub Project](https://github.com/NonymousMorlock/quizzler-flutter)
 
 ## Section 11: Boss Level Challenge 2 - Destini
-* Destini Stub
+* [Destini Stub](https://github.com/NonymousMorlock/destini-challenge-starting)
 
 ## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
-* BMI Stub Project
+* [BMI Stub Project](https://github.com/NonymousMorlock/bmi-calculator)
+* [LAB Navigation Demo](https://github.com/NonymousMorlock/navigation-flutter-demo)
 
 ## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
-* Clima Stub Project
+* [Clima Stub Project](https://github.com/NonymousMorlock/clima)
 
 ## Section 14: Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
-* Bitcoin Ticker Stub Project
+* [Bitcoin Ticker Stub Project](https://github.com/NonymousMorlock/bitcoin-ticker)
 
 ## Section 15: Flash Chat - Flutter x Firebase Cloud Firestore
-* Flash Chat Stub Project
+* [Flash Chat Stub Project](https://github.com/NonymousMorlock/flash-chat-flutter)
 
 ## Section 16: Flutter State Management
-* State Management Example
+* [State Management Example](https://github.com/NonymousMorlock/state-management-examples)
