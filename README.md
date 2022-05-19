@@ -33,4 +33,4 @@ these are the updated course resources
 * [Flash Chat Stub Project](https://github.com/NonymousMorlock/flash-chat-flutter)
 
 ## Section 16: Flutter State Management
-* [State Management Example](https://github.com/NonymousMorlock/state-management-examples)
+* [State Management Example](https://github.com/NonymousMorlock/state_management-flutter)
