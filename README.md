@@ -11,4 +11,4 @@ these are the updated course resources
 * [Magic 8 Ball Stub](https://github.com/NonymousMorlock/magic-8-ball-flutter-master)
 
 ## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
-* XyloPhone Stub Project
+* [XyloPhone Stub Project](https://github.com/NonymousMorlock/xylophone-flutter-master)
