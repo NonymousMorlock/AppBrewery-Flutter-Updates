@@ -15,3 +15,21 @@ these are the updated course resources
 
 ## Section 10: Quizzler - Modularising & Organising Flutter Code
 * Quizzler Stub Project
+
+## Section 11: Boss Level Challenge 2 - Destini
+* Destini Stub
+
+## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
+* BMI Stub Project
+
+## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
+* Clima Stub Project
+
+## Section 14: Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
+* Bitcoin Ticker Stub Project
+
+## Section 15: Flash Chat - Flutter x Firebase Cloud Firestore
+* Flash Chat Stub Project
+
+## Section 16: Flutter State Management
+* State Management Example
