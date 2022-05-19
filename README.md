@@ -21,7 +21,7 @@ these are the updated course resources
 
 ## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
 * [BMI Stub Project](https://github.com/NonymousMorlock/bmi-calculator)
-* [LAB Navigation Demo](https://github.com/NonymousMorlock/navigation-flutter-demo)
+* [LAB Navigation Demo](https://github.com/NonymousMorlock/Navigation-Flutter-Demo)
 
 ## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
 * [Clima Stub Project](https://github.com/NonymousMorlock/clima)
