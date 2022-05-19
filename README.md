@@ -12,3 +12,6 @@ these are the updated course resources
 
 ## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 * [XyloPhone Stub Project](https://github.com/NonymousMorlock/xylophone-flutter-master)
+
+## Section 10: Quizzler - Modularising & Organising Flutter Code
+* Quizzler Stub Project
